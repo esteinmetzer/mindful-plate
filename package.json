@@ -39,7 +39,7 @@
     "react-dnd-touch-backend": "^0.8.0",
     "react-dom": "^16.8.1",
     "react-icons": "^3.4.0",
-    "react-native": "^0.58.5",
+    "react-native": "^0.70.3",
     "react-router-dom": "^4.3.1",
     "reactstrap": "^7.1.0",
     "styled-components": "^4.1.3"
